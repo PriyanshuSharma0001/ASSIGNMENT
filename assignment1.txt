@@ -1,0 +1,15 @@
+ans1: An electronic machine that can store, find and arrange information, calculate amounts and control other machines.
+
+ans2: RAM is a common computing acronym that stands for random-access memory. Sometimes it's called PC memory or just memory. In essence, RAM is your computer or laptop's short-term memory. It's where the data is stored that your computer processor needs to run your applications and open your files.
+ 
+ans3: Data stored in HDD/SSD in a computer.
+
+ans4: Keyboard.
+ 
+ans5: The devices that are used to take output from the computer is known as output device.ex:monitor,printer etc.
+
+ans6: Mouse.
+
+ans7: Machine level language.
+
+ans8: The devices that are used  to give input to the computer is known as input device.ex:scanner,mouse,keyboard etc.
