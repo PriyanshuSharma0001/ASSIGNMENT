@@ -1,0 +1,18 @@
+Ans1: Git is a version control system use to track code , to track who made changes in code and provide a collaborative environment.
+
+Ans2: Version Contol System means to track each version of code .
+
+Ans3: Github is a git server work as a remote repository use to save code at remote location.
+
+Ans4: Popular git hosting services are:
+github,gitlab,gitblit,bitbucket etc.
+
+Ans5: Different type of version control are:
+1.Centralised version control.
+2.Distributed version control.
+
+Ans6: Git is an distributed version control therefore it is use track code and code changes.
+
+Ans7: Git repository is the memory space where the developer keep its code after completion.
+
+Ans8: To initialize a repository in git we can use command git init.
