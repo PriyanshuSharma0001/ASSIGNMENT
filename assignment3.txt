@@ -1,0 +1,17 @@
+Ans1: To check if git is available or not we can use command git --version.
+
+Ans2: To initialize the repository we can use command git init.
+
+Ans3: To tell git about our name and email we can use config command like
+      for name:git config --global user.name"xyz"
+      for email:git config --global user.email"xyz@gmail.com".
+
+Ans4: To add a file to the staging area we can use command git add.filename .
+
+Ans5: To unstage file we can use the commmand git reset HEAD --path/to/file.
+
+Ans6: To commit a file we can use command git commit -m "Add existing file".
+
+Ans7: To push the commit from the local repo to your remote repositories, run git push -u remote-name branch-name.
+
+Ans8: In clone command we take the whole copy of the program for the first time and by pull command we can find the changes made by other developer.
