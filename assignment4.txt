@@ -1,0 +1,17 @@
+Ans1: A programming language is a set of instructions written by a programmer to deliver instructions to the computer to perform and accomplish a task. 
+
+Ans2: We cannot communicate computer by using machine level language and assembly level language because they are difficult to memorise and complex for human being therefore we need a programming language which is in human understandable form .
+
+Ans3: The features of java are:
+      -platform independent
+      -robust
+      -distributed
+      -open source
+      -portable
+      -freely download
+
+Ans4: An object can be defined as a data field that has unique attributes and behavior. 
+
+Ans5: A class is a template definition of the methods and variables in a particular kind of object.
+
+Ans6: The main() is the starting point for JVM to start execution of a Java program. Without the main() method, JVM will not execute the program. 
