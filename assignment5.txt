@@ -1,0 +1,25 @@
+Ans1: Statically typed programming language is a language in which data have to declare datatype first and the memory provided at the time of compilation and Dynamic typed programming language is a language which automatically declare data type and the memeory provided at time of execution.
+
+Ans2: Variables are containers that are used to store data.
+
+Ans3: To assign a value to variable we use assignment operator.
+
+Ans4:  Primitive data types are a set of basic data types from which all other data types are constructed.
+
+Ans5: An identifier is a name given to a package class, interface, method or variable. All identifiers must have different names.
+
+Ans6: Operators in java are:
+1.Arithmetic operator
+2.Relational operator
+3.Logical operator
+4.Assignment operator
+5.Unary operator
+6.Bitwise operator
+
+Ans7: Increment operator is use to increase the value of variable by one.
+      Decrement operator is use to decrease the value of variable by one.
+      ex: let a=5;
+  now ++a=6;
+      a++=7;
+      --a=6;
+      a--=5;
