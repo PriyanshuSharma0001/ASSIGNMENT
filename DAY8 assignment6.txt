@@ -1,0 +1,43 @@
+Ans1: Conditional operators are the the operators that is used to check a particular condition.
+
+Ans2: Types of operator based on number of operands:
+one operand:
+Logical not,unary operator;
+two operand:
+arithmetic operator,relational operator,logical operator,assignment operator;
+
+Ans3: Switch case is use to select a particular case which is coincide with the expression given in switch case;
+
+Ans4: Multiplication, division and remainder operations are applied first. If an expression contains several such operations, they're applied from left to right. Multiplication, division and remainder operators have the same level of precedence.
+
+Ans5: Conditional statement is use to perform some task based on a condition if condition is true some task1 is executed else task2 is executed.
+
+Ans6: if(condition)
+{
+    task1;
+}
+else{
+    task2;
+}
+
+Ans7: 3 types of iterative statements  are: 
+1.for loop
+2.while loop
+3.do while loop;
+
+Ans8: In for loop condition is check first then task is executed .
+In do while loop the task is executed then the condition is check;
+
+Ans9: program:
+public class printnum {
+    public static void main(String args[])
+    {
+        for(int i=1;i<=10;i++)
+        {
+            System.out.println(i);
+        }
+    }
+    
+}
+
+
