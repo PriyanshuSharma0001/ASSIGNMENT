@@ -1,0 +1,35 @@
+Ans1: Array is the collection of elements of same datatype.
+
+Ans2: To create an array we can directly given value to an array or use new keyword to create an array.
+
+Ans3: No we cannot change the size of array at runtime;
+
+Ans4: yes we can declare an array without assigning the size.
+
+Ans5: The Default value of Array is zero.
+
+Ans6: The 1D array is the array which has only one row.
+
+Ans7: import java.util.*;
+public class arrayprograms{
+    public static void main(String [] args)
+    {
+        Scanner sc= new Scanner(System.in); 
+        int arr[][]=new int[3][4];
+        for(int i=0;i<3;i++)
+        {
+            for(int j=0;j<4;j++){
+            arr[i][j]=sc.nextInt();
+            }
+        }
+
+        for(int i=0;i<3;i++)
+        {
+            for(int j=0;j<4;j++){
+            System.out.print(arr[i][j]);
+            }
+            System.out.println();
+        }
+        
+    }
+}

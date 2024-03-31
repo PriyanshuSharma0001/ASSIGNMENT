@@ -1,0 +1,17 @@
+Ans1: To create an object in java we can use new keyword.
+
+Ans2: new keyword is use make object of a class.
+
+Ans3: There are three types of variable:
+1.local variable
+2.instance variable
+3.static variable
+
+Ans4: Instance variable are declared outside of block.
+created at a time of object creation and delete at a time of object deletion.
+Local variable are declared inside the block and store in stack.
+
+Ans5: for instance variable - heap memeory
+for local variable- stack memory
+
+Ans6: In java we can take multiple method with same name and different datatype is known as method overloading.
