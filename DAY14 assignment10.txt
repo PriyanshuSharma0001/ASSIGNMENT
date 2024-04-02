@@ -1,0 +1,17 @@
+Ans1: String is the collection of charcters.
+
+Ans2: there are two type of strings:
+1.mutable
+2.immutable
+
+Ans3: we can create string object like:
+String str="pw java";
+String str=new String("pw java");
+StringBuffer str= new StringBuffer("pw java");
+StringBuilder str= new StringBuilder("pw java");
+
+Ans4: when we create string without using new keyword then this string is stored in area in heap called string constant pool;
+
+Ans5: Mutable strings are the strings that can be changed and immutable strings are the strings that can not be changed;
+
+Ans6: String constant pool located in the heap memory;

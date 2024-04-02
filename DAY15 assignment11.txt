@@ -1,0 +1,65 @@
+Ans1: import java.util.*;
+public class inputstring {
+    public static void main(String args[])
+    {
+    Scanner sc= new Scanner(System.in);
+    String str=sc.nextLine();
+    System.out.println(str);
+    }
+    
+}.
+
+Ans2: To concatenate two string we can use plus operator or concat method to concate two string.
+
+Ans3: To find the length of the string we can use length() function.
+
+Ans4: To compare two string in java we can use == operator and equals().
+
+Ans5: import java.util.*;
+public class inputstring {
+    public static void main(String args[])
+    {
+    Scanner sc= new Scanner(System.in);
+    String str=sc.nextLine();
+    int len=0;
+    for(int i=0;str.charAt(i)!='\0';i++)
+    {
+    len++;
+    }
+    System.out.println(len);
+    }
+    
+}
+Ans6:import java.util.*;
+public class inputstring {
+    public static void main(String args[])
+    {
+    Scanner sc= new Scanner(System.in);
+    String str=sc.nextLine();
+    int len=0;
+    for(int i=0;str.charAt(i)!='\0';i++)
+    {
+    if(str.charAt(i)=='e')
+    System.out.println("true");
+    }
+    }
+    
+}
+
+Ans7:public class stringconstant {
+    
+    public static void main(String[] args) {
+        String st="Hello,have a good day";
+        int len=0;
+        for(int i=0;i<st.length();i++)
+        {
+            if(st.charAt(i)=='a'||st.charAt(i)=='e'||st.charAt(i)=='i'||st.charAt(i)=='o'||st.charAt(i)=='u'||st.charAt(i)==' '||st.charAt(i)==',')
+            continue;
+            else
+            len++;
+        }
+        System.out.println(len);
+    }
+}
+
+
